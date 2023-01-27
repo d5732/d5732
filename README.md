@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Dennis</h1>
-<h3 align="center">Full-stack developer passionate about scalability and UX.</h3>
+<h1 align="left">👋 Hello! I'm Dennis Drueck</h1>
+<h3 align="left">I'm a full-stack developer passionate about scalability and UX.</h3>
+
 
 -   🔭 Currently working on [MAT Action](https://www.mataction.com/)
 
