@@ -18,7 +18,7 @@
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/dennis-d-58764754/)
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:denwa.dev@gmail.com)
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left">Languages and Tools</h3>
 <div style="display:grid;">
 <p align="left">
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
@@ -107,6 +107,6 @@
 </p>
 <div>
   
-<h3 align="left">Certifications:</h3>
+<h2 align="left">Certifications</h3>
 [<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/67435195">](https://www.credential.net/fd384cd9-1520-4b46-8b24-56fdc291dbca)
 
