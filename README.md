@@ -1,4 +1,4 @@
-<div align=center><img src="https://user-images.githubusercontent.com/113398750/221527683-955d467b-1a63-4c59-8ff9-65c0fecff20a.png"></div>
+<div width="100%" background="white" align=center><img src="https://user-images.githubusercontent.com/113398750/221527683-955d467b-1a63-4c59-8ff9-65c0fecff20a.png"></div>
 <h1 align="left">👋 Hello! I'm Dennis Drueck</h1>
 <h3 align="left">I'm a full-stack developer passionate about scalability and UX.</h3>
 
