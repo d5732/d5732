@@ -20,7 +20,7 @@
 
 <h2 align="left">Certifications</h2>
 
--   [FastTrack Full-Stack Software Development Training Program](https://www.credential.net/fd384cd9-1520-4b46-8b24-56fdc291dbca)
+-   [FastTrack Full-Stack Software Development Training Program  — SQL, Java, JavaScript, Spring Boot, RESTful Web Services, React.js, Redux, Git](https://www.credential.net/fd384cd9-1520-4b46-8b24-56fdc291dbca)
 -   [Back-End and APIs — Express.js, MongoDB, Node.js](https://www.freecodecamp.org/certification/denwadev/back-end-development-and-apis)
 -   [Relational Databases — PostgreSQL, Bash](https://www.freecodecamp.org/certification/denwadev/relational-database-v8)
 -   [Front-End Libraries — React.js, Redux, jQuery, Bootstrap](https://www.freecodecamp.org/certification/denwadev/front-end-development-libraries)
