@@ -108,5 +108,12 @@
 <div>
   
 <h2 align="left">Certifications</h3>
-[<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/67435195">](https://www.credential.net/fd384cd9-1520-4b46-8b24-56fdc291dbca)
-
+-Cook Systems
+  -[FastTrack Full-Stack Software Development Training Program](https://www.credential.net/fd384cd9-1520-4b46-8b24-56fdc291dbca)
+-freeCodeCamp.org
+  -[Back-End and APIs — Express.js, MongoDB, Node.js](https://www.freecodecamp.org/certification/denwadev/back-end-development-and-apis)
+  -[Relational Databases — PostgreSQL, Bash](https://www.freecodecamp.org/certification/denwadev/relational-database-v8)
+  -[Front-End Libraries — React.js, Redux, jQuery, Bootstrap](https://www.freecodecamp.org/certification/denwadev/front-end-development-libraries)
+  -[JavaScript — Data Structures and Algorithms](https://www.freecodecamp.org/certification/denwadev/javascript-algorithms-and-data-structures)
+  -[Python — Scientific Computing](https://www.freecodecamp.org/certification/denwadev/scientific-computing-with-python)
+  -[Responsive Web Design — Semantic HTML5, CSS3](https://www.freecodecamp.org/certification/denwadev/responsive-web-design)
