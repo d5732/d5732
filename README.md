@@ -107,4 +107,6 @@
 </p>
 <div>
   
+<h3 align="left">Certifications:</h3>
 [<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/67435195">](https://www.credential.net/fd384cd9-1520-4b46-8b24-56fdc291dbca)
+
