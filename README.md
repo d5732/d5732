@@ -2,17 +2,19 @@
 <h3 align="left">I'm a full-stack developer passionate about scalability and UX.</h3>
 
 
--   🔭 Currently working on [MAT Action](https://www.mataction.com/)
+-   🔭 Currently working on [Martial Arts Technologies](https://www.mataction.com/)
 
 -   🌱 Currently learning **AWS, Java**
 
--   👨‍💻 All of my projects are available at [https://denwa-dev.vercel.app/](https://denwa-dev.vercel.app/)
+-   👨‍💻 View my portfolio at [https://denwa-dev.vercel.app/](https://denwa-dev.vercel.app/)
 
--   💬 Ask me about **React.js, Node.js**
-
--   📫 Reach me at **Denwa.dev@gmail.com**
+-   💬 Ask me about **React.js, Node.js, Perception Theory**
 
 -   🎸 Fun fact **I play guitar**
+
+### Connect with me!
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/dennis-d-58764754/)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:denwa.dev@gmail.com)
 
 <h3 align="left">Languages and Tools:</h3>
 <div style="display:grid;">
