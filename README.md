@@ -9,7 +9,7 @@
 
 -   👨‍💻 View my portfolio at [https://denwa-dev.vercel.app/](https://denwa-dev.vercel.app/)
 
--   💬 Ask me about **React.js, Node.js, Visual Perception Theory**
+-   💬 Ask me about **Node.js, React.js, Visual Perception Theory**
 
 -   🎸 Fun fact **I play guitar**
 
