@@ -1,4 +1,4 @@
-<div width="100%" background="white" align=center>
+<div width="100%" align=center>
   <img src="https://user-images.githubusercontent.com/113398750/221527683-955d467b-1a63-4c59-8ff9-65c0fecff20a.png"></div>
 <h1 align="left">👋 Hello! I'm Dennis Drueck</h1>
 <h3 align="left">I'm a full-stack developer passionate about scalability and UX.</h3>
@@ -20,13 +20,13 @@
 
 <h2 align="left">Certifications</h2>
 
--   [FastTrack Full-Stack Software Development Training Program  — SQL, Java, JavaScript, Spring Boot, REST, React.js, Redux](https://www.credential.net/fd384cd9-1520-4b46-8b24-56fdc291dbca)
--   [Back-End and APIs — Express.js, MongoDB, Node.js](https://www.freecodecamp.org/certification/denwadev/back-end-development-and-apis)
--   [Relational Databases — PostgreSQL, Bash](https://www.freecodecamp.org/certification/denwadev/relational-database-v8)
--   [Front-End Libraries — React.js, Redux, jQuery, Bootstrap](https://www.freecodecamp.org/certification/denwadev/front-end-development-libraries)
--   [JavaScript — Data Structures and Algorithms](https://www.freecodecamp.org/certification/denwadev/javascript-algorithms-and-data-structures)
--   [Python — Scientific Computing](https://www.freecodecamp.org/certification/denwadev/scientific-computing-with-python)
--   [Responsive Web Design — Semantic HTML5, CSS3](https://www.freecodecamp.org/certification/denwadev/responsive-web-design)
+-   [FastTrack Full-Stack Software Development Training Program](https://www.credential.net/fd384cd9-1520-4b46-8b24-56fdc291dbca) — SQL, Java, JavaScript, Spring Boot, REST, React.js, Redux
+-   [Back-End and APIs](https://www.freecodecamp.org/certification/denwadev/back-end-development-and-apis) — Express.js, MongoDB, Node.js
+-   [Relational Databases](https://www.freecodecamp.org/certification/denwadev/relational-database-v8) — PostgreSQL, Bash
+-   [Front-End Libraries](https://www.freecodecamp.org/certification/denwadev/front-end-development-libraries) — React.js, Redux, jQuery, Bootstrap
+-   [JavaScript](https://www.freecodecamp.org/certification/denwadev/javascript-algorithms-and-data-structures) — Data Structures and Algorithms
+-   [Python](https://www.freecodecamp.org/certification/denwadev/scientific-computing-with-python) — Scientific Computing
+-   [Responsive Web Design](https://www.freecodecamp.org/certification/denwadev/responsive-web-design) — Semantic HTML5, CSS3
 
 
 <h2 align="left">Languages and Tools</h2>
