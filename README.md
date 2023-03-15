@@ -46,12 +46,7 @@
 </a> 
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_mongo.svg" width="40" height="40">
-</a> 
-</div>
-
-<br>
-
-<div> 
+</a>  
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_typescript.svg" width="40" height="40">
 </a> 
@@ -67,11 +62,6 @@
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_php3.svg" width="40" height="40">
 </a> 
-</div>
-
-<br>
-
-<div>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_node.svg" width="40" height="40">
 </a> 
@@ -87,11 +77,6 @@
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
 </a> 
-</div>
-
-<br>
-
-<div>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_tailwind.svg" width="40" height="40">
 </a> 
@@ -104,11 +89,6 @@
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_html.svg" width="40" height="40">
 </a> 
-</div>
-
-<br>
-
-<div>
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_aws.svg" width="40" height="40">
 </a> 
@@ -124,11 +104,6 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_git.svg" width="40" height="40">
 </a> 
-</div>
-
-<br>
-  
-<div>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
 </a> 
