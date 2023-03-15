@@ -4,41 +4,30 @@
 </div>
 </a>
 </div>
-<h1 align="left">👋 Hello! I'm Dennis Drueck</h1>
+<h3 align="left">👋 Hello! I'm Dennis Drueck</h3>
 
 <h3 align="left">I'm a full-stack developer passionate about scalability and UX.</h3>
 
 -   🔭 Currently working on [Martial Arts Technologies](https://www.mataction.com/)
-
 -   🌱 Currently learning **AWS, GCP**
-
 -   👨‍💻 View my portfolio at [https://denwa-dev.vercel.app/](https://denwa-dev.vercel.app/)
-
--   💬 Ask me about **Node.js, React.js, Visual Perception Theory**
-
 -   🎸 Fun fact **I play guitar**
 
-<br>
+<hr>
 
-<h2 align="left">Certifications</h2>
+<h3 align="left">Certifications</h3>
 
 -   [FastTrack Full-Stack Software Development Training Program](https://www.credential.net/fd384cd9-1520-4b46-8b24-56fdc291dbca) — SQL, Java, JavaScript, Spring Boot, REST, React.js, Redux
-
 -   [Back-End and APIs](https://www.freecodecamp.org/certification/denwadev/back-end-development-and-apis) — Express.js, MongoDB, Node.js
-
 -   [Relational Databases](https://www.freecodecamp.org/certification/denwadev/relational-database-v8) — PostgreSQL, Bash
-
 -   [Front-End Libraries](https://www.freecodecamp.org/certification/denwadev/front-end-development-libraries) — React.js, Redux, jQuery, Bootstrap
-
 -   [JavaScript](https://www.freecodecamp.org/certification/denwadev/javascript-algorithms-and-data-structures) — Data Structures and Algorithms
-
 -   [Python](https://www.freecodecamp.org/certification/denwadev/scientific-computing-with-python) — Scientific Computing
-
 -   [Responsive Web Design](https://www.freecodecamp.org/certification/denwadev/responsive-web-design) — Semantic HTML5, CSS3
 
-<br>
+<hr>
 
-<h2 align="left">Languages and Tools</h2>
+<h3 align="left">Languages and Tools</h3>
 
 <div>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
@@ -115,9 +104,9 @@
 </a> 
 </div>
 
-<br>
-<br>
-<h2></h2>
+<hr>
+<hr>
+<h3></h3>
 <div align="left">
 
 [![Dennis's GitHub stats](https://github-readme-stats.vercel.app/api?username=d5732&show_icons=true&title_color=61afef&icon_color=98c379&text_color=e3e5e8&bg_color=282c34)](https://github.com/d5732)
