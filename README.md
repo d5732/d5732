@@ -124,6 +124,7 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_git.svg" width="40" height="40">
 </a> 
+</div>
 
 <br>
   
