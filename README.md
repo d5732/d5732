@@ -18,7 +18,7 @@
 
 -   🎸 Fun fact **I play guitar**
 
-<hr>
+<br>
 
 <h2 align="left">Certifications</h2>
 
@@ -36,7 +36,7 @@
 
 -   [Responsive Web Design](https://www.freecodecamp.org/certification/denwadev/responsive-web-design) — Semantic HTML5, CSS3
 
-<hr>
+<br>
 
 <h2 align="left">Languages and Tools</h2>
 
@@ -130,7 +130,8 @@
 
 
 
-<hr />
+<br>
+  
 <div align="left">
 
 [![Dennis's GitHub stats](https://github-readme-stats.vercel.app/api?username=d5732&show_icons=true&title_color=61afef&icon_color=98c379&text_color=e3e5e8&bg_color=282c34)](https://github.com/d5732)
