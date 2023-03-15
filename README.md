@@ -49,6 +49,8 @@
 </a> 
 </div>
 
+<br>
+
 <div> 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_typescript.svg" width="40" height="40">
@@ -137,9 +139,9 @@
 </a> 
 </div>
 
-
 <br>
- 
+<br>
+<h2></h2>
 <div align="left">
 
 [![Dennis's GitHub stats](https://github-readme-stats.vercel.app/api?username=d5732&show_icons=true&title_color=61afef&icon_color=98c379&text_color=e3e5e8&bg_color=282c34)](https://github.com/d5732)
