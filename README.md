@@ -4,7 +4,7 @@
 </div>
 </a>
 </div>
-<h3 align="left">👋 Hello! I'm Dennis Drueck</h3>
+<h1 align="left">👋 Hello! I'm Dennis Drueck</h1>
 
 <h3 align="left">I'm a full-stack developer passionate about scalability and UX.</h3>
 
@@ -105,8 +105,7 @@
 </div>
 
 <hr>
-<hr>
-<h3></h3>
+
 <div align="left">
 
 [![Dennis's GitHub stats](https://github-readme-stats.vercel.app/api?username=d5732&show_icons=true&title_color=61afef&icon_color=98c379&text_color=e3e5e8&bg_color=282c34)](https://github.com/d5732)
