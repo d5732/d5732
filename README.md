@@ -8,7 +8,7 @@
 
 <h3 align="left">I'm a full-stack developer passionate about scalability and UX.</h3>
 
--   🔭 Currently working on [Martial Arts Technologies](https://www.mataction.com/)
+-   🔭 Currently working at [Egen](https://egen.solutions/)
 -   🌱 Currently learning **AWS, GCP**
 -   👨‍💻 View my portfolio at [https://denwa-dev.vercel.app/](https://denwa-dev.vercel.app/)
 -   🎸 Fun fact **I play guitar**
