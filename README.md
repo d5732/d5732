@@ -15,7 +15,7 @@
 -   🎸 Fun fact **I play guitar**
 
 <hr>
-I'm experienced both as a contributor in agile teams and as a freelancer. I've worked mostly in web dev, creating applications for SaaS, data processing, and health and life sciences. I've dabbled in BlockChain, image processing, and automation software as well. 
+I'm experienced both as a contributor in agile teams and as a freelancer. I've worked mostly in web dev, creating applications for SaaS, data processing, and health and life sciences. I've dabbled in blockchain, image processing, and automation software as well. 
 
 <h3 align="left">Certifications</h3>
 
