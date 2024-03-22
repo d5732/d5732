@@ -10,6 +10,7 @@
 
 -   🔭 Currently working at [Egen](https://egen.solutions/)
 -   🌱 Currently learning **AWS, GCP**
+-   ❔ Ask me about **React.js, Node.js, TypeScript, PostgreSQL** 
 -   👨‍💻 View my portfolio at [https://denwa-dev.vercel.app/](https://denwa-dev.vercel.app/)
 -   🎸 Fun fact **I play guitar**
 
