@@ -6,15 +6,16 @@
 </div>
 <h1 align="left">👋 Hello! I'm Dennis Drueck</h1>
 
-<h3 align="left">I'm a full-stack developer passionate about scalability and UX.</h3>
+<h3 align="left">I'm a full-stack developer passionate about pragmatic, scalable solutions. </h3>
 
 -   🔭 Currently working at [Egen](https://egen.solutions/)
--   🌱 Currently learning **AWS, GCP**
+-   🌱 Currently learning **AWS, GCP, BullMq, Redis**
 -   ❔ Ask me about **React.js, Node.js, TypeScript, PostgreSQL** 
 -   👨‍💻 View my portfolio at [https://denwa-dev.vercel.app/](https://denwa-dev.vercel.app/)
 -   🎸 Fun fact **I play guitar**
 
 <hr>
+I'm experienced both as a contributor in agile teams and as a freelancer. I've worked mostly in web dev, creating applications for SaaS, data processing, and health and life sciences. 
 
 <h3 align="left">Certifications</h3>
 
