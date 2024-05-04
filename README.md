@@ -9,7 +9,7 @@
 <h3 align="left">I'm a full-stack developer passionate about pragmatic, scalable solutions. </h3>
 
 -   🔭 Currently working at [Egen AI](https://egen.ai/)
--   🌱 Currently learning **AWS, GCP, BullMq, Redis**
+-   🌱 Currently learning **GCP, Terraform, Microfrontend Architecture**
 -   ❔ Ask me about **React.js, Node.js, TypeScript, PostgreSQL** 
 -   👨‍💻 View my portfolio at [https://denwa-dev.vercel.app/](https://denwa-dev.vercel.app/)
 -   🎸 Fun fact **I play guitar**
