@@ -110,5 +110,4 @@ I'm experienced both as a contributor in agile teams and as a freelancer. I've w
 
 <div align="left">
 
-[![Dennis's GitHub stats](https://github-readme-stats.vercel.app/api?username=d5732&show_icons=true&title_color=61afef&icon_color=98c379&text_color=e3e5e8&bg_color=282c34)](https://github.com/d5732)
 </div>
