@@ -105,9 +105,3 @@ I'm experienced both as a contributor in agile teams and as a freelancer. I've w
 <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_ai.svg" width="40" height="40">
 </a> 
 </div>
-
-<hr>
-
-<div align="left">
-
-</div>
