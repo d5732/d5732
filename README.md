@@ -11,7 +11,7 @@
 -   👨‍💻 Currently working at [Egen AI](https://egen.ai/)
 -   💡 Currently learning **GCP Professional Cloud Architect, Terraform, Microfrontend Architecture**
 -   👨‍🏫 Ask me about **React.js, Node.js, TypeScript, PostgreSQL** 
--   📇 View my portfolio at [https://denwa-dev.vercel.app/](https://denwa-dev.vercel.app/)
+-   📇 Check out my [portfolio](https://denwa-dev.vercel.app/)
 -   🎸 Fun fact **I play guitar**
 
 <hr>
